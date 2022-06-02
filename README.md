@@ -19,6 +19,5 @@
     <li>Implement it to my portfolio's website</li>
     <li>Center the icons in the navbar</li>
 </ul>
-<br>
 <h2>License</h2>
     This project is licensed under the <a href='https://github.com/mp-gutierrez/single-page-app/blob/main/LICENSE'>MIT License</a>.
